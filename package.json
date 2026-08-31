@@ -1,0 +1,16 @@
+{
+  "name": "aula5",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "A CineStar é uma API de programação de cinema.\r Ela fornece informações sobre o cinema, suas salas e os filmes disponíveis.",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
